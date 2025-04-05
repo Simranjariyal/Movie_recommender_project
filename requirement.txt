@@ -1,1 +1,5 @@
-This is req page
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
